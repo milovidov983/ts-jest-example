@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import {Application} from "./main/Application"
+import { Application } from './main/Application';
 
-Application.run()
+Application.run();
