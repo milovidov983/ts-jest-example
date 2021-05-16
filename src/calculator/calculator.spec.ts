@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import { Calculator } from '../../src/calculator/Calculator';
+import { Calculator } from './calculator';
 
 /* tslint:disable:no-string-literal */
 describe('Calculator', () => {
