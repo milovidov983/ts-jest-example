@@ -1,3 +1,3 @@
-# ts-mocha-example
+# ts-jest-example
 
-An example of node CLI app written in Typescript with Mocha unit tests.
+An example of node CLI app written in Typescript with Jest unit tests.
